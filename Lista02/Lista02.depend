@@ -1,19 +1,29 @@
 # depslib dependency file v1.0
-1684440236 source:c:\users\sfsam\onedrive\documentos\aed02\lista02\bubblesort.c
+1684441148 source:c:\users\sfsam\onedrive\documentos\aed02\lista02\bubblesort.c
 	<stdio.h>
 	<stdlib.h>
 	<locale.h>
 
-1684440836 source:c:\users\sfsam\onedrive\documentos\aed02\lista02\main.c
+1684809455 source:c:\users\sfsam\onedrive\documentos\aed02\lista02\main.c
 	<stdio.h>
 	<stdlib.h>
 
-1684440139 source:c:\users\sfsam\onedrive\documentos\aed02\lista02\insertionsort.c
+1684441172 source:c:\users\sfsam\onedrive\documentos\aed02\lista02\insertionsort.c
 	<stdio.h>
 	<stdlib.h>
 	<locale.h>
 
 1684440981 source:c:\users\sfsam\onedrive\documentos\aed02\lista02\selectionsort.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1684809763 source:c:\users\sfsam\onedrive\documentos\aed02\lista02\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1684809697 source:c:\users\sfsam\onedrive\documentos\aed02\lista02\quicksort.c
 	<stdio.h>
 	<stdlib.h>
 	<locale.h>

@@ -41,5 +41,7 @@ int selection(){
         printf("%4d ", vetor[i]);
     }
 
+    system("pause");
+
     return 0;
 }

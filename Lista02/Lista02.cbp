@@ -34,10 +34,19 @@
 		<Unit filename="InsertionSort.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="SelectionSort.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="bubblesort.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mergeSort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="quickSort.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

@@ -6,6 +6,8 @@ int main()
     bolha();
     insertion();
     selection();
+    metodoMS();
+    metodoQS();
     return 0;
 }
 
